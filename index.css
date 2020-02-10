@@ -60,6 +60,7 @@ p {
 }
 .columnCartTitle {
 	width: 200px;
+	font-size: smaller;
 }
 
 .column {
